@@ -2,6 +2,7 @@ package main
 
 import "fmt"
 
+//version to show the env
 var version = "dev"
 
 func main() {
